@@ -1,0 +1,6 @@
+framework module Pods_PicSumUITests {
+  umbrella header "Pods-PicSumUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
